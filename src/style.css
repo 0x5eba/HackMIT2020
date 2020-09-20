@@ -1,0 +1,67 @@
+html, body {
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+}
+body {
+  margin: 0;
+  text-align: center;
+}
+
+.flex-container {
+    height: calc(100% - 50px);
+    width: 100%;
+    /* margin: 0 auto; */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    height: 100%;
+    width: 100%;
+    max-width: 100%;
+    max-height: 100%;
+
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.div-send-msg {
+    /* display: flex; */
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.btn-down {
+    z-index: 2;
+    position: fixed; 
+    bottom: 0px;
+    height: auto;
+}
+
+.emoji {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 0;
+    font-size: 30px;
+    display: block;
+}
+
+.emoji2 {
+    font-size: 20px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+.close {
+    position: absolute;
+    right: 15px;
+    top: 5px;
+    font-size: 20px;
+    opacity: 0.5;
+}
