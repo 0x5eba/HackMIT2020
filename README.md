@@ -4,7 +4,7 @@
 
 People have the power to build communities, meet other people from all around the world in video-chat, and the possibility to understand them even if they speak different languages
 
-Demo: [http://hackmit.sebastienbiollo.com/](http://hackmit.sebastienbiollo.com/)
+Demo: [https://hackmit.sebastienbiollo.com/](https://hackmit.sebastienbiollo.com/)
 
 ## IBM
 
