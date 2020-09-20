@@ -5,7 +5,7 @@ const { IamAuthenticator } = require('ibm-watson/auth')
 const languageTranslator = new LanguageTranslatorV3({
     version: '2020-07-07',
     authenticator: new IamAuthenticator({
-        apikey: "yFSht7lZLIfx2v2DhOd2-xy3T4R-SOK6zgFnk-QcDMoD",
+        apikey: "",
     }),
     url: "https://api.eu-gb.language-translator.watson.cloud.ibm.com/instances/e7a97c73-85cc-4d86-844f-7980d86b6287",
 })

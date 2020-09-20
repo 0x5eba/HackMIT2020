@@ -21,7 +21,7 @@ app.enable('trust proxy')
 const { IamTokenManager } = require('ibm-watson/auth')
 var serviceUrl = "https://api.eu-gb.speech-to-text.watson.cloud.ibm.com/instances/f99b2b12-d43c-4275-ac49-11387f2cf394" 
 const sttAuthenticator = new IamTokenManager({
-    apikey: "zhyMjX9f2Y5NzwlMAt04V61Gw3u6knMA2BQcc1rBQ44M"
+    apikey: ""
 })
 
 // speech to text token endpoint
