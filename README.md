@@ -1,5 +1,7 @@
 # HackMITting
 
+![](https://github.com/0x5eba/HackMIT2020/blob/master/images/hackmit_home.webp "Home") ![](https://github.com/0x5eba/HackMIT2020/blob/master/images/hackmit_meet_bloor.png "Meet")
+
 People have the power to build communities, meet other people from all around the world in video-chat, and the possibility to understand them even if they speak different languages
 
 ## IBM
